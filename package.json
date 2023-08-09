@@ -1,0 +1,15 @@
+{
+  "name": "module3",
+  "version": "1.0.0",
+  "description": "This is for the third module of ETH + AVAX course module 3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Upadhyay",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.16.1"
+  }
+}
